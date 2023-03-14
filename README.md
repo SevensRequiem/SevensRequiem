@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **https://requiem.moe**
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sevensrequiem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sevensrequiem" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&theme=merko&locale=en&layout=compact" alt="sevensrequiem" /></p>
