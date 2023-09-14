@@ -5,7 +5,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sevensrequiem&label=Profile%20views&color=720eb4&style=flat-square" alt="sevensrequiem" /> </p>
 
 uhhhh python, js, php, html, css, batch mainly
-<a href="https://requiem.moe" target="_blank"><img align="right" src="https://requiem.moe/banner.gif" width="auto" height="320" /></a>
+[![Watch the video](https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg)](https://www.youtube.com/embed/Y3ahRMbCGxM)
+
+[<img src="https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/Y3ahRMbCGxM)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&theme=merko&locale=en&layout=compact" alt="sevensrequiem" /></p>
 
