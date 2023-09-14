@@ -7,9 +7,6 @@
 uhhhh python, js, php, html, css, batch mainly
 [![Watch the video](https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg)](https://www.youtube.com/embed/Y3ahRMbCGxM)
 
-[<img src="https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/Y3ahRMbCGxM)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&theme=merko&locale=en&layout=compact" alt="sevensrequiem" /></p>
 
