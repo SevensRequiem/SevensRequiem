@@ -11,6 +11,8 @@
         <img src="https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg" alt="Watch the video">
     </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&theme=merko&locale=en&layout=compact" alt="sevensrequiem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevensrequiem&show_icons=true&theme=merko&locale=en" alt="sevensrequiem" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&theme=merko&locale=en&layout=compact" alt="sevensrequiem" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=sevensrequiem&show_icons=true&theme=merko&locale=en" alt="sevensrequiem" />
+</p>
