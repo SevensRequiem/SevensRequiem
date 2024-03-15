@@ -11,4 +11,8 @@
         <img src="https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg" alt="Watch the video">
     </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,docker,py,go,vscode,ae,bash,cloudflare,codepen,css,debian,discord,github,laravel,graphql,html,linux,lua,mysql,nginx,php,sqlite,symfony" />
+  </a>
+</p>
