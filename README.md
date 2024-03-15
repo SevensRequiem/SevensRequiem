@@ -11,6 +11,4 @@
         <img src="https://img.youtube.com/vi/Y3ahRMbCGxM/hqdefault.jpg" alt="Watch the video">
     </a>
 </p>
-<p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
