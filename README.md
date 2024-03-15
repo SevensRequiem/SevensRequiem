@@ -12,7 +12,5 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&theme=merko&locale=en&layout=compact" alt="sevensrequiem" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=sevensrequiem&show_icons=true&theme=merko&locale=en" alt="sevensrequiem" />
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
