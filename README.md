@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cameron</h1>
+<h1 align="center">Hi 👋, I'm Requiem</h1>
 <h3 align="center">A self taught full stack developer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevensrequiem&label=Profile%20views&color=0e75b6&style=flat" alt="sevensrequiem" /> </p>
