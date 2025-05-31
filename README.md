@@ -1,44 +1,39 @@
-<h1 align="center">Hi 👋, I'm Requiem</h1>
-<h3 align="center">A self taught full stack developer from the USA</h3>
+# 🕯️ Requiem — Coder. Builder. Thinker.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sevensrequiem&label=Profile%20views&color=0e75b6&style=flat" alt="sevensrequiem" /> </p>
+> *"headphone dysphoria"*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevensrequiem" alt="sevensrequiem" /></a> </p>
+### 🧠 About Me
+I'm a self-taught web developer & occasional sysadmin, building things at the edge of structure and chaos. I enjoy creating scalable systems, beautiful UIs, and tools that actually solve problems.  
+Currently working on full-stack projects, with an eye on performance, security, and autonomy.
 
-- 🔭 I’m currently working on [achan.moe](https://github.com/SevensRequiem/achan.moe)
+---
 
-- 🌱 I’m currently learning **GoLang, JavaScript**
+### 🛠️ Tech Stack
+- **Frontend**: Nuxt/Vue
+- **Backend**: Go, Node.js, MongoDB, PostgreSQL
+- **DevOps**: Docker, Linux, Nginx, PM2
+- **Other**: WebSockets, Auth Systems, RBAC, REST APIs
 
-- 👯 I’m looking to collaborate on [blogr.moe](https://github.com/SevensRequiem/blogr)
+---
 
-- 🤝 I’m looking for help with [achan.moe](https://github.com/SevensRequiem/achan.moe)
+### 🔗 Links
+- 🌐 Website: [requiem.moe](https://requiem.moe)
+- 🗃️ Projects: [GitHub Repos](https://github.com/sevensrequiem)
+- 🧪 Blog: Linked on my site
+- 🖤 Music: $NOT, Lil Peep, Blksmiith, Breaking Benjamin, DIR EN GREY, and more
 
-- 👨‍💻 All of my projects are available at [https://requiem.moe](https://requiem.moe)
+---
 
-- 📝 I regularly write articles on [https://requiem.moe/blog](https://requiem.moe/blog)
+### 🧩 Personality
+- **INTP/INTJ** hybrid
+- Obsessed with consciousness, systems, and all things tech
+- Wired for deep thought
 
-- 💬 Ask me about **Why I love Go**
+---
 
-- 📫 How to reach me **admin@requiem.moe**
+### 🧱 Building, not selling
+Right now, I'm more interested in making things that *feel real*.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sevensrequiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sevensrequiem" height="30" width="40" /></a>
-<a href="https://twitter.com/sevensrequiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sevensrequiem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cbrown444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cbrown444" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sevensrequiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sevensrequiem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/requiem//moe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="requiem//moe" height="30" width="40" /></a>
-<a href="https://discord.gg/requiem.moe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="requiem.moe" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sevensrequiem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sevensrequiem" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevensrequiem&show_icons=true&locale=en&layout=compact" alt="sevensrequiem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevensrequiem&show_icons=true&locale=en" alt="sevensrequiem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sevensrequiem&" alt="sevensrequiem" /></p>
+> 💬 Feel free to reach out via [requiem.moe](https://requiem.moe) or drop a star on something cool.
