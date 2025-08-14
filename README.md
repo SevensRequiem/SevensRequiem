@@ -1,4 +1,4 @@
-# 🕯️ Requiem — Coder. Builder. Thinker.
+# 🕯️ Requiem - A token of remembrance.
 
 > *"headphone dysphoria"*
 
@@ -25,15 +25,10 @@ Currently working on full-stack projects, with an eye on performance, security, 
 ---
 
 ### 🧩 Personality
-- **INTP/INTJ** hybrid
 - Obsessed with consciousness, systems, and all things tech
-- Wired for deep thought
+- WiRed for deep thought
 
 ---
 
-### 🧱 Building, not selling
-Right now, I'm more interested in making things that *feel real*.  
+> EOF
 
----
-
-> 💬 Feel free to reach out via [requiem.moe](https://requiem.moe) or drop a star on something cool.
