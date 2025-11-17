@@ -15,7 +15,7 @@ stats:
 * issues opened: usually my own fault
 * languages ranked: go > c++ > asm > everything else > php > nodejs > rust
   
-#1 spot may go to [Carbon](carbon-language/carbon-lang)!
+#1 spot may go to [Carbon](https://github.com/carbon-language/carbon-lang)!
 
 jk rust is pretty cool
 
@@ -26,6 +26,7 @@ jk rust is pretty cool
 // NOT a war-criminal in China, Russia, or Bhutan!
 
 if I vanish, I'm building something or forgot reality existed.
+
 
 
 
