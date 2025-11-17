@@ -19,8 +19,11 @@ stats:
 jk rust is pretty cool
 
 // hikikomori since 2013
+
 // low-level wizard soon-ish?
+
 // NOT a war-criminal in China, Russia, or Bhutan!
 
 if I vanish, I'm building something or forgot reality existed.
+
 
