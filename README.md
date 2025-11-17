@@ -1,34 +1,24 @@
-# 🕯️ Requiem - A token of remembrance.
+# ::Requiem
 
-> *"headphone dysphoria"*
+99' self-taught dev oscillating between high-level Go and low-level C++/asm. tunnel-vision coding, sleep optional (Go version):
 
-### 🧠 About Me
-I'm a self-taught web developer & occasional sysadmin, building things at the edge of structure and chaos. I enjoy creating scalable systems, beautiful UIs, and tools that actually solve problems.  
-Currently working on full-stack projects, with an eye on performance, security, and autonomy.
+```go
+func main() {
+	go func() { /* do something */ }()
+}
+```
 
----
+stats:
 
-### 🛠️ Tech Stack
-- **Frontend**: Nuxt/Vue
-- **Backend**: Go, Node.js, MongoDB, PostgreSQL
-- **DevOps**: Docker, Linux, Nginx, PM2
-- **Other**: WebSockets, Auth Systems, RBAC, REST APIs
+* commits made: enough to regret
+* repos active: depends on my dopamine levels
+* issues opened: usually my own fault
+* languages ranked: go > c++ > asm > everything else > php > nodejs > rust
+#1 spot may go to [Carbon](carbon-language/carbon-lang)!
+jk rust is pretty cool
 
----
+// hikikomori since 2013
+// low-level wizard soon-ish?
+// NOT a war-criminal in China, Russia, or Bhutan!
 
-### 🔗 Links
-- 🌐 Website: [requiem.moe](https://requiem.moe)
-- 🗃️ Projects: [GitHub Repos](https://github.com/sevensrequiem)
-- 🧪 Blog: Linked on my site
-- 🖤 Music: $NOT, Lil Peep, Blksmiith, Breaking Benjamin, DIR EN GREY, and more
-
----
-
-### 🧩 Personality
-- Obsessed with consciousness, systems, and all things tech
-- WiRed for deep thought
-
----
-
-> EOF
-
+if I vanish, I'm building something or forgot reality existed.
