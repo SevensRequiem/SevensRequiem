@@ -26,6 +26,10 @@ stats:
 if I vanish, I'm building something or forgot reality existed.
 
 
+### for other projects of mine:
+[Requiem's Ecosystem](https://github.com/requiem-eco)
+
+
 
 
 
