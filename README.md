@@ -13,11 +13,9 @@ stats:
 * commits made: enough to regret
 * repos active: depends on my dopamine levels
 * issues opened: usually my own fault
-* languages ranked: go > c++ > asm > everything else > php > nodejs > rust
+* languages ranked: go > c++ > asm > everything else > php > nodejs > rust (jk rust is pretty cool)
   
-#1 spot may go to [Carbon](https://github.com/carbon-language/carbon-lang)!
-
-jk rust is pretty cool
+#1 spot may go to [Carbon](https://github.com/carbon-language/carbon-lang) in the future!
 
 // hikikomori since 2013
 
@@ -26,6 +24,7 @@ jk rust is pretty cool
 // NOT a war-criminal in China, Russia, or Bhutan!
 
 if I vanish, I'm building something or forgot reality existed.
+
 
 
 
