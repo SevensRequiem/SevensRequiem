@@ -1,6 +1,6 @@
 # ::Requiem
 
-99' self-taught dev oscillating between high-level Go and low-level C++/asm. tunnel-vision coding, sleep optional (Go version):
+99' self-taught dev oscillating between high-level Go and low-level C++/asm. tunnel-vision coding, sleep optional
 
 ```go
 func main() {
@@ -26,6 +26,7 @@ jk rust is pretty cool
 // NOT a war-criminal in China, Russia, or Bhutan!
 
 if I vanish, I'm building something or forgot reality existed.
+
 
 
 
