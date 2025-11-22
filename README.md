@@ -19,12 +19,14 @@ stats:
 > hikikomori since 2013<br />
 > low-level wizard soon-ish?<br />
 > NOT a war-criminal in China, Russia, or Bhutan!<br />
-if I vanish, I'm building something or forgot reality existed.
+
+#### if I vanish, I'm building something or forgot reality existed.**
 
 ### for other projects of mine:
 [Requiem's Ecosystem](https://github.com/requiem-eco)
 
 > *dod beats oop every time*
+
 
 
 
