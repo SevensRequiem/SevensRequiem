@@ -17,11 +17,9 @@ stats:
   
 #1 spot may go to [Carbon](https://github.com/carbon-language/carbon-lang) in the future!
 
-// hikikomori since 2013
-
-// low-level wizard soon-ish?
-
-// NOT a war-criminal in China, Russia, or Bhutan!
+> hikikomori since 2013
+> low-level wizard soon-ish?
+> NOT a war-criminal in China, Russia, or Bhutan!
 
 if I vanish, I'm building something or forgot reality existed.
 
@@ -30,6 +28,7 @@ if I vanish, I'm building something or forgot reality existed.
 [Requiem's Ecosystem](https://github.com/requiem-eco)
 
 > *dod beats oop every time*
+
 
 
 
