@@ -1,5 +1,7 @@
 # ::Requiem
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C313F6NI)
+
 99' self-taught dev oscillating between high-level Go and low-level C++/asm. tunnel-vision coding, sleep optional
 
 ```go
@@ -26,6 +28,7 @@ stats:
 [Requiem's Ecosystem](https://github.com/requiem-eco)
 
 > *dod beats oop every time*
+
 
 
 
