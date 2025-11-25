@@ -24,10 +24,7 @@ stats:
 
 ### actual stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SevensRequiem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevensRequiem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SevensRequiem&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=SevensRequiem)
+
