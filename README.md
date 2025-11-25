@@ -10,7 +10,7 @@ stats:
 * commits made: enough to regret
 * repos active: depends on my dopamine levels
 * issues opened: usually my own fault
-* languages ranked: go > c++ > asm > everything else > php > nodejs > rust (jk rust is pretty cool)
+* languages ranked: go > c++ > asm > everything else > php > nodejs > rust (jk rust is pretty cool)<br />
 #1 spot may go to [Carbon](https://github.com/carbon-language/carbon-lang) in the future!
 > hikikomori since 2013<br />
 > low-level wizard soon-ish?<br />
@@ -27,5 +27,6 @@ stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SevensRequiem&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=SevensRequiem)
+
 
 
