@@ -1,6 +1,6 @@
 # ::Requiem
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C313F6NI)<br />
-99' self-taught dev oscillating between high-level Go and low-level C++/asm. tunnel-vision coding, sleep optional
+unemployed 99' self-taught dev oscillating between high-level Go and low-level C++/asm. tunnel-vision coding, sleep optional
 ```go
 func main() {
 	go func() { /* do something */ }()
@@ -27,6 +27,7 @@ stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SevensRequiem&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=SevensRequiem)
+
 
 
 
