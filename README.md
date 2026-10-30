@@ -14,7 +14,7 @@ stats:
 #1 spot may go to [Carbon](https://github.com/carbon-language/carbon-lang) in the future!
 > hikikomori since 2013<br />
 > low-level wizard soon-ish?<br />
-> NOT a war-criminal in China, Russia, or Bhutan!<br />
+
 #### if I vanish, I'm building something or forgot reality existed.
 
 > *dod beats oop every time*
